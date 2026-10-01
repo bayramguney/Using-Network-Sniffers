@@ -344,8 +344,3 @@ This lab provided hands-on experience using Wireshark to capture and analyze net
 
 ---
 
-## 👨‍💻 Author
-
-**Bayram Guney**
-
-Cybersecurity | CompTIA A+ | Network+ | Security+ | Wireshark | Network Security | SOC Analyst | Digital Forensics
